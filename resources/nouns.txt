@@ -1,0 +1,21 @@
+Table
+Chair
+Saw
+Hammer
+Door
+House
+Fruit
+Vegetable
+Drums
+Guitar
+Piano
+Saxophone
+Trumpet
+Bucket
+Radio
+TV
+Couch
+Sofa
+Bed
+Computer
+Bill Gates, Founder and CEO of Microsoft Corporation
